@@ -201,3 +201,17 @@ Per guard, record: error class | level (eliminate / block / alert) | where it wa
 ## About the examples
 
 Every case in `examples/` was written to show the format. Each title is marked "Example (fictional)". Do not treat them as real events.
+
+## Illustrations
+
+Four simple pictures for the method: a cover, the fuse-to-filter "why" chain, the three legs (occurrence, detection, system), and the fix order (eliminate, then block, then warn).
+
+这四张图是方法的简单示意：封面、保险丝到滤网的追问链、三条腿，以及对策三档。
+
+![Cover: "Be more careful" won't fix the process](images/01-cover-fuse-why.png)
+
+![Left to right, keep asking why](images/02-why-chain.png)
+
+![Three legs: occurrence, detection, system](images/03-three-legs.png)
+
+![Strongest at the top: eliminate, then block, then warn](images/04-three-tiers.png)
